@@ -4,7 +4,7 @@ global.owner = [
 ['573218138672'],
 ['573218138672']]
 
-global.numberbot = '573218138672'
+global.numberbot = '573106909511'
 global.nameowner = 'OfcDiego'
 global.nomorown = '573012482597'
 
