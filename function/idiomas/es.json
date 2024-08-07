@@ -135,7 +135,7 @@
 "dl": {
 "play": {
 "text1": "🍟 *Por favor, introduce el título de un video*\n_.play photograph_",
-"text2": "YouTube - Curiosity",
+"text2": "YouTube - Sakura",
 "text3": "*Título del video:*",
 "text4": "*Cantidad de visualizaciones:*",
 "text5": "*Enlace del video:*",
@@ -155,7 +155,7 @@
 },
 
 "gitclone": {
-"text1": "🍟 *Por favor, introduce el enlace de un repositorio de Github*\n_.gitclone https://github.com/AzamiJs/CuriosityBot_",
+"text1": "🍟 *Por favor, introduce el enlace de un repositorio de Github*\n_.gitclone https://github.com/OfcDiego/SakuraBotLite-MD_",
 "text2": "🚩 *Enlace incorrecto*",
 "text3": "🚩 *Se ha producido un error*"
 },
@@ -264,7 +264,7 @@
 "rpg": {
 "reg": {
 "text1": "🚩 *Ya estás registrado*",
-"text2": "🍟 *Instrucciones de uso*\n> .reg nombre.edad\n\n`Ejemplo:`\n.reg Zam.20",
+"text2": "🍟 *Instrucciones de uso*\n> .reg nombre.edad\n\n`Ejemplo:`\n.reg Diego.20",
 "text3": "🚩 *El nombre no puede estar vacío*",
 "text4": "🚩 *La edad no puede estar vacía*",
 "text5": "🚩 *La edad máxima permitida es 80 años*",
