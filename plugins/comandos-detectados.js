@@ -27,7 +27,7 @@ export async function before(m) {
     user.commands += 1;
     await conn.sendPresenceUpdate('composing', m.chat);
   } else {
-   const comando = m.text.trim().split(' ')[0];
-   await m.reply(`⚡︎ El comando "${comando}" no es válido.\nUsa "!menu" para ver los comandos disponibles.`);
+   const sakuracommand = m.text.trim().split(' ')[0];
+   await m.reply(`❕️ El comando *"${sakuracommand}"* no está en mi lista de comandos.\nUsa *"#menu"* para ver los comandos disponibles en SakuraBot.`);
   }
 }
