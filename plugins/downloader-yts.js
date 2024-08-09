@@ -1,7 +1,7 @@
 const yts = require('yt-search')
 const handler = async (m, { conn, command, text, usedPrefix }) => {
 
-if (!text) return m.reply(`🚩 *Ingrese el título de un vídeo*\n\nEjemplo, #yts SakuraBotLite-MD`)
+if (!text) return m.reply(`🚩 *Ingrese el título de un vídeo*\n\nEjemplo, !yts SakuraBotLite-MD`)
 let ress = await yts(`${text}`)
 let armar = ress.all
 let teks2 = armar.map(v => {
