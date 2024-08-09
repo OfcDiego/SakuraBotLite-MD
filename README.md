@@ -7,7 +7,7 @@
 ---
 
 
-🍟 **`INSTALACION MANUAL POR TERMUX`**
+🌸 **`INSTALACION MANUAL POR TERMUX`**
 
 [`🚩 Instalar Termux Clic Aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
 
@@ -29,7 +29,7 @@ yarn install && npm install
 npm start
 ```
 
-🍟 **`ACTIVAR EN TERMUX EN CASO DE DETENERSE`**
+🔴 **`ACTIVAR EN TERMUX EN CASO DE DETENERSE`**
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
@@ -37,7 +37,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-🚩 **`OBTENER OTRO CODIGO QR`**
+⚪️ **`OBTENER OTRO CODIGO QR`**
 ```bash
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd SakuraBotLite-MD
