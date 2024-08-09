@@ -30,7 +30,6 @@ await conn.sendMessage(m.chat, { text: ofcdiego, contextInfo: { forwardingScore:
 handler.help = ['infobot']
 handler.tags = ['main']
 handler.command = ['infobot']
-handler.limit = false
 
 module.exports = handler
 
