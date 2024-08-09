@@ -4,7 +4,7 @@ if (chat.antiBot) {
 if (m.isBaileys === true) {
 if (m.fromMe || !isBotAdmin) {		 
 } else {
-conn.sendMessage(m.chat, { text: `\`🚩 Anti Bots\`\n\n*Hola @${m.sender.split("@")[0]}, parece que eres un bot, serás eliminado*` })
+conn.sendMessage(m.chat, { text: `\`🚩 Anti Bots\`\n\n*Hola @${m.sender.split("@")[0]}, parece que eres un bot de WhatsApp, serás eliminado*` })
 conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 }
 }
